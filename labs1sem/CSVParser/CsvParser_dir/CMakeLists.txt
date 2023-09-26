@@ -1,0 +1,1 @@
+add_library(Csv_t STATIC Csv.h Csv.cpp)

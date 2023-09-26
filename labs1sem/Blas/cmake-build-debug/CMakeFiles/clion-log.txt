@@ -1,0 +1,5 @@
+/opt/clion-2022.2.1/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/opt/clion-2022.2.1/bin/ninja/linux/ninja -G Ninja -S /home/user/CLionProjects/Blas -B /home/user/CLionProjects/Blas/cmake-build-debug
+-- Could NOT find MKL (missing: MKL_DIR)
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/user/CLionProjects/Blas/cmake-build-debug

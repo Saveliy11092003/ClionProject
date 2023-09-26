@@ -1,0 +1,23 @@
+# ninja log v5
+1	304	1665160833397119925	CMakeFiles/Lab1_oop.dir/BigInt_directory1/BigInt.cpp.o	5a908f4d427b8a96
+2995	3026	1665072594391219889	lib/libgtest.a	47f420880c547e72
+0	82	1665135467022809503	build.ninja	f353a8d5a80afe36
+313	317	1665160833413119941	BigInt_directory1/libBigInt_t.a	fde55b1e495568d9
+1	2667	1665158731293270304	CMakeFiles/Lab1_oop.dir/BigInt_Tests.cpp.o	de7606a950024cb4
+3128	3404	1665198698334829755	Lab1_oop	9dab750eb53242a7
+1	2995	1665072594355219053	_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	d27b48ae4ec5cdb2
+1	3128	1665198698057293805	CMakeFiles/Lab1_oop.dir/My_Tests.cpp.o	150f3bedfadad5c7
+3026	3029	1665072594395219983	lib/libgtest_main.a	d35c6cbb52580b7f
+1	562	1665072591931162600	_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	99f62377da6de45a
+0	231	1663514764444122379	CMakeFiles/Lab1_oop.dir/main.cpp.o	de42f179c2c3e1b8
+1	313	1665160833409119937	BigInt_directory1/CMakeFiles/BigInt_t.dir/BigInt.cpp.o	2dc317a6358581f
+1	2870	1665198902312804180	CMakeFiles/Lab1_oop.dir/My_Tests.cpp.o	150f3bedfadad5c7
+2871	3126	1665198902576675852	Lab1_oop	9dab750eb53242a7
+1	2914	1665198923728863435	CMakeFiles/Lab1_oop.dir/My_Tests.cpp.o	150f3bedfadad5c7
+2914	3167	1665198923989125529	Lab1_oop	9dab750eb53242a7
+1	432	1665202579771711833	BigInt_directory1/CMakeFiles/BigInt_t.dir/BigInt.cpp.o	2dc317a6358581f
+433	440	1665202579783711833	BigInt_directory1/libBigInt_t.a	fde55b1e495568d9
+1	469	1665202579811711832	CMakeFiles/Lab1_oop.dir/BigInt_directory1/BigInt.cpp.o	5a908f4d427b8a96
+1	2905	1665202582243711770	CMakeFiles/Lab1_oop.dir/My_Tests.cpp.o	150f3bedfadad5c7
+1	3592	1665202582927711752	CMakeFiles/Lab1_oop.dir/BigInt_Tests.cpp.o	de7606a950024cb4
+3593	3865	1665202583203711745	Lab1_oop	9dab750eb53242a7

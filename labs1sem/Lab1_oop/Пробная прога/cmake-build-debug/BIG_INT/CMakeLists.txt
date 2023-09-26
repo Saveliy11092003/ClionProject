@@ -1,0 +1,1 @@
+add_library(BIG_INT_l STATIC Vector.cpp Vector.h)

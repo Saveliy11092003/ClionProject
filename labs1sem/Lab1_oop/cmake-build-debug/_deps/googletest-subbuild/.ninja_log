@@ -1,0 +1,21 @@
+# ninja log v5
+0	2	1664554336418345909	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	c8c1dd358157ea50
+3811	3812	1664554340225954486	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	878b3665bf43d1e7
+3805	3807	1664554340221954895	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	38790234645b74c9
+2	3804	1664554340217955304	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	efbf239a1e82bf46
+3814	3816	1664554340229954079	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	2ddabc8bf5d9a3e2
+3814	3816	1664554340229954079	/home/user/CLionProjects/Lab1_oop/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete	2ddabc8bf5d9a3e2
+0	2	1664554336418345909	/home/user/CLionProjects/Lab1_oop/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	c8c1dd358157ea50
+3805	3807	1664554340221954895	/home/user/CLionProjects/Lab1_oop/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	38790234645b74c9
+3807	3809	1664554340225954486	/home/user/CLionProjects/Lab1_oop/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	acd58633c903a8c6
+3804	3805	1664554340221954895	/home/user/CLionProjects/Lab1_oop/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	162e90a270998cd4
+3814	3816	1664554340229954079	CMakeFiles/googletest-populate-complete	2ddabc8bf5d9a3e2
+3812	3814	1664554340229954079	/home/user/CLionProjects/Lab1_oop/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	674e67068d9a524
+3807	3809	1664554340225954486	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	acd58633c903a8c6
+3809	3811	1664554340225954486	/home/user/CLionProjects/Lab1_oop/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	dae36a6c62511a14
+3812	3814	1664554340229954079	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	674e67068d9a524
+3811	3812	1664554340225954486	/home/user/CLionProjects/Lab1_oop/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	878b3665bf43d1e7
+2	3804	1664554340217955304	/home/user/CLionProjects/Lab1_oop/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	efbf239a1e82bf46
+3814	3816	1664554340229954079	/home/user/CLionProjects/Lab1_oop/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	2ddabc8bf5d9a3e2
+3804	3805	1664554340221954895	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	162e90a270998cd4
+3809	3811	1664554340225954486	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	dae36a6c62511a14

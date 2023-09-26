@@ -1,0 +1,4 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Release -G "CodeBlocks - Unix Makefiles" -S /tmp/tmp.7lt2KWRCf2 -B /tmp/tmp.7lt2KWRCf2/cmake-build-max
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /tmp/tmp.7lt2KWRCf2/cmake-build-max

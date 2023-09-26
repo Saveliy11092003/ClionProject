@@ -1,0 +1,13 @@
+/opt/clion-2022.2.1/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/opt/clion-2022.2.1/bin/ninja/linux/ninja -G Ninja -S /home/user/CLionProjects/untitled1 -B /home/user/CLionProjects/untitled1/cmake-build-debug
+-- Configuring done
+CMake Error at CMakeLists.txt:9 (add_library):
+  Cannot find source file:
+
+    PUBLIC
+
+
+CMake Error at CMakeLists.txt:9 (add_library):
+  No SOURCES given to target: vector_t
+
+
+CMake Generate step failed.  Build files cannot be regenerated correctly.

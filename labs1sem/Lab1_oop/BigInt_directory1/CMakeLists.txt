@@ -1,0 +1,1 @@
+add_library(BigInt_t STATIC BigInt.cpp BigInt.h)

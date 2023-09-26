@@ -1,0 +1,3 @@
+/home/user/CLionProjects/OPP/lab5ver1/cmake-build-debug/CMakeFiles/lab5ver1.dir
+/home/user/CLionProjects/OPP/lab5ver1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/user/CLionProjects/OPP/lab5ver1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

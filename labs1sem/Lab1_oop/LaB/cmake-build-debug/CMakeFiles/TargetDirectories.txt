@@ -1,0 +1,3 @@
+/home/user/CLionProjects/LaB/cmake-build-debug/CMakeFiles/lab7_blas.dir
+/home/user/CLionProjects/LaB/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/user/CLionProjects/LaB/cmake-build-debug/CMakeFiles/rebuild_cache.dir

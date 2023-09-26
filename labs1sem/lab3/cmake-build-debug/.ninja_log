@@ -1,0 +1,27 @@
+# ninja log v5
+0	1645	1672304161281427901	CMakeFiles/lab3.dir/main.cpp.o	e8b1b76be2af98ea
+2	192	1672304391006852439	CMakeFiles/lab3.dir/Exceptions/Exceptions.cpp.o	b153f1cfb561a9cb
+2	305	1672304391122831942	CMakeFiles/lab3.dir/ConfigReader/ConfigReader.cpp.o	ade2c894bdf5fb59
+3	389	1672304391202817805	CMakeFiles/lab3.dir/WaveEdit/WaveEdit.cpp.o	6231571df4883555
+2	541	1672304391354790947	CMakeFiles/lab3.dir/Converter/Converter.cpp.o	4e8ff7bc4457b55d
+2	674	1672304391486767622	CMakeFiles/lab3.dir/ProcessManager/ProcessManager.cpp.o	93c8450d78b40561
+674	753	1672304391566753486	lab3	69efb9a085e30c4f
+2	1465	1672311358676839987	CMakeFiles/lab3.dir/main.cpp.o	e8b1b76be2af98ea
+1466	1545	1672311358756841900	lab3	69efb9a085e30c4f
+2	1486	1672312693476710213	CMakeFiles/lab3.dir/main.cpp.o	e8b1b76be2af98ea
+1486	1560	1672312693552711250	lab3	69efb9a085e30c4f
+3	383	1672321799849997905	CMakeFiles/lab3.dir/Exceptions/Exceptions.cpp.o	b153f1cfb561a9cb
+2	532	1672321799998001602	CMakeFiles/lab3.dir/ConfigReader/ConfigReader.cpp.o	ade2c894bdf5fb59
+3	663	1672321800130004894	CMakeFiles/lab3.dir/WaveEdit/WaveEdit.cpp.o	6231571df4883555
+3	850	1672321800314009481	CMakeFiles/lab3.dir/Converter/Converter.cpp.o	4e8ff7bc4457b55d
+3	1152	1672321800618017059	CMakeFiles/lab3.dir/ProcessManager/ProcessManager.cpp.o	93c8450d78b40561
+2	1830	1672321801294033893	CMakeFiles/lab3.dir/main.cpp.o	e8b1b76be2af98ea
+1830	1922	1672321801386036182	lab3	69efb9a085e30c4f
+2	1587	1672322287758157214	CMakeFiles/lab3.dir/main.cpp.o	e8b1b76be2af98ea
+1587	1669	1672322287838158198	lab3	69efb9a085e30c4f
+2	999	1672330610132900954	CMakeFiles/lab3.dir/ProcessManager/ProcessManager.cpp.o	93c8450d78b40561
+1000	1085	1672330610216904081	lab3	69efb9a085e30c4f
+2	1828	1672387790464682535	CMakeFiles/lab3.dir/main.cpp.o	e8b1b76be2af98ea
+1828	1941	1672387790576683335	lab3	69efb9a085e30c4f
+3	908	1672390315209295011	CMakeFiles/lab3.dir/ProcessManager/ProcessManager.cpp.o	93c8450d78b40561
+908	1016	1672390315317296970	lab3	69efb9a085e30c4f

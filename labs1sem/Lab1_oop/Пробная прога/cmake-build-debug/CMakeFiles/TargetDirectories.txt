@@ -1,0 +1,3 @@
+/home/user/CLionProjects/Пробная прога/cmake-build-debug/CMakeFiles/_.dir
+/home/user/CLionProjects/Пробная прога/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/user/CLionProjects/Пробная прога/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+CMakeLists.txt not found in /home/user/CLionProjects/lab4finaly Select CMakeLists.txt

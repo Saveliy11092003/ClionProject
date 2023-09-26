@@ -1,0 +1,26 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Release -G "CodeBlocks - Unix Makefiles" -S /tmp/tmp.kJ4slI2wQD -B /tmp/tmp.kJ4slI2wQD/cmake-build-evm
+-- MKL_ARCH: intel64
+-- MKL_ROOT /opt/intel/oneapi/mkl/2022.2.0
+-- MKL_LINK: dynamic
+-- MKL_INTERFACE_FULL: intel_ilp64
+-- MKL_THREADING: intel_thread
+-- MKL_MPI: intelmpi
+-- Found MKL: intelmpi  
+-- Found MKL: /opt/intel/oneapi/mkl/2022.2.0  
+-- Found MKL: /opt/intel/oneapi/mkl/2022.2.0/lib/intel64/libmkl_intel_ilp64.so  
+-- Found MKL: /opt/intel/oneapi/mkl/2022.2.0/lib/intel64/libmkl_core.so  
+-- Found MKL: /opt/intel/oneapi/mkl/2022.2.0/lib/intel64/libmkl_intel_thread.so  
+-- Found MKL: /opt/intel/oneapi/compiler/latest/linux/compiler/lib/intel64/libiomp5.so  
+-- found BLAS
+CMake Error at CMakeLists.txt:11 (target_include_directories):
+  Cannot specify include directories for target "lab7" which is not built by
+  this project.
+
+
+CMake Error at CMakeLists.txt:12 (target_link_libraries):
+  Cannot specify link libraries for target "lab7" which is not built by this
+  project.
+
+
+-- Configuring incomplete, errors occurred!
+See also "/tmp/tmp.kJ4slI2wQD/cmake-build-evm/CMakeFiles/CMakeOutput.log".

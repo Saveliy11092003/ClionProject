@@ -1,0 +1,4 @@
+Cannot generate into /home/user/CLionProjects/labs1sem/lab3
+It is already used for project /home/user/CLionProjects/lab3
+
+Please either delete it manually or select another generation directory

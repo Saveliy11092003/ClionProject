@@ -1,0 +1,31 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Release -G "CodeBlocks - Unix Makefiles" -S /tmp/tmp.nzCs7hsChy -B /tmp/tmp.nzCs7hsChy/cmake-build-evm
+-- The C compiler identification is GNU 9.4.0
+-- The CXX compiler identification is GNU 9.4.0
+-- Check for working C compiler: /usr/bin/cc
+-- Check for working C compiler: /usr/bin/cc -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Check for working CXX compiler: /usr/bin/c++
+-- Check for working CXX compiler: /usr/bin/c++ -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- MKL_ARCH: None, set to ` intel64` by default
+-- MKL_ROOT /opt/intel/oneapi/mkl/2022.2.0
+-- MKL_LINK: None, set to ` dynamic` by default
+-- MKL_INTERFACE_FULL: None, set to ` intel_ilp64` by default
+-- MKL_THREADING: None, set to ` intel_thread` by default
+-- MKL_MPI: None, set to ` intelmpi` by default
+-- Found MKL: intelmpi  
+-- Found MKL: /opt/intel/oneapi/mkl/2022.2.0  
+-- Found MKL: /opt/intel/oneapi/mkl/2022.2.0/lib/intel64/libmkl_intel_ilp64.so  
+-- Found MKL: /opt/intel/oneapi/mkl/2022.2.0/lib/intel64/libmkl_core.so  
+-- Found MKL: /opt/intel/oneapi/mkl/2022.2.0/lib/intel64/libmkl_intel_thread.so  
+-- Found MKL: /opt/intel/oneapi/compiler/latest/linux/compiler/lib/intel64/libiomp5.so  
+-- found BLAS
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /tmp/tmp.nzCs7hsChy/cmake-build-evm

@@ -1,0 +1,13 @@
+# ninja log v5
+3110	3144	1672332236510369821	lib/libgtest.a	47f420880c547e72
+1111	1283	1672215181184432767	lab4	29ba16d1eb988edb
+0	102	1672376239707803702	build.ninja	e44e1d2ccb1e017b
+0	423	1672375635698681829	CMakeFiles/lab4.dir/CSVParser/CSVParser.cpp.o	5c654177066532c3
+1	1278	1672376128152802547	CMakeFiles/lab4.dir/Tests.cpp.o	c3d39b3f8eb3c7be
+416	420	1672375540464165541	CSVParser/libCsv_t.a	5c044d493e5c01b8
+2	3110	1672332236474369510	_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	1ef0bd47008cec6d
+1	416	1672375540456166056	CSVParser/CMakeFiles/Csv_t.dir/CSVParser.cpp.o	74280627c4308bb9
+3144	3150	1672332236518369890	lib/libgtest_main.a	d35c6cbb52580b7f
+1	426	1672375567126502287	CMakeFiles/lab4.dir/main.cpp.o	e50875a09587f6a4
+0	500	1671845845393353024	CMakeFiles/lab4.dir/Lab4.cpp.o	ee82962a5e66a0a0
+2	778	1672332234146349454	_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	d129a1ddaaa168

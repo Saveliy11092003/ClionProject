@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/tmp/tmp.7lt2KWRCf2/lab.cpp
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+mkl_cblas.h
+/tmp/tmp.7lt2KWRCf2/mkl_cblas.h
+iostream
+-
+
